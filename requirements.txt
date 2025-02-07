@@ -1,5 +1,8 @@
 Flask
 opencv-python
 numpy
-pillow
-werkzeug
+rembg
+Pillow
+Werkzeug
+onnxruntime-gpu
+onnxruntime
