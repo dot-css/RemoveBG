@@ -6,3 +6,4 @@ Pillow
 Werkzeug
 onnxruntime-gpu
 onnxruntime
+opencv-python-headless
