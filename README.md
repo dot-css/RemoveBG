@@ -18,15 +18,7 @@ This repository focuses on providing a customizable and reliable implementation 
   * **🖼️ Output Options:** Supports outputting the final transparent image or just the grayscale mask for custom processing.
   * **🛠️ Developer-Friendly:** Easily integrable as a library into your existing Python or web projects. *(**Note:** Check the specific language/library details in the **Installation** section.)*
 
------
 
-## **✨ Examples**
-
-| Original Image | Transparent Background Output |
-| :---: | :---: |
-|  |  |
-
------
 
 ## **🚀 Installation**
 
